@@ -1,4 +1,3 @@
-Análisis de Inteligencia de Negocios Bancarios (SQL Server)
 Descripción del Proyecto
 Este repositorio contiene una serie de consultas SQL desarrolladas para analizar el comportamiento, la lealtad y el perfil de riesgo de los clientes de una entidad bancaria. El objetivo principal es transformar datos brutos en insights accionables que permitan a la gerencia identificar segmentos de clientes en riesgo de abandono y optimizar las estrategias de retención.
 
