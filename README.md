@@ -1,9 +1,3 @@
-¡Excelente paso! Ya tienes tus archivos arriba, ahora vamos a hacer que ese repositorio destaque.
-
-En la página principal de tu repositorio, verás un botón que dice "Add a README" o "Create new file". Si eliges crear nuevo, nómbralo exactamente README.md.
-
-Copia y pega este contenido en el editor. He organizado el texto para que incluya todo lo que hemos trabajado y se vea muy profesional:
-
 Análisis de Inteligencia de Negocios Bancarios (SQL Server)
 Descripción del Proyecto
 Este repositorio contiene una serie de consultas SQL desarrolladas para analizar el comportamiento, la lealtad y el perfil de riesgo de los clientes de una entidad bancaria. El objetivo principal es transformar datos brutos en insights accionables que permitan a la gerencia identificar segmentos de clientes en riesgo de abandono y optimizar las estrategias de retención.
